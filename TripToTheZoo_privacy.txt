@@ -1,0 +1,108 @@
+PRIVACY POLICY  
+Last updated: November 2025  
+Application: Trip To The Zoo  
+Developer / Publisher: Kids Games Projects  
+Contact: kidsgameprojects@gmail.com  
+
+---
+
+## 1. Introduction
+
+The application **Trip To The Zoo** is developed and published by **Kids Games Projects**.  
+We respect your privacy and are committed to protecting the data of all users, especially children.  
+This Privacy Policy explains how information is handled in accordance with the **General Data Protection Regulation (GDPR)**, **Children’s Online Privacy Protection Act (COPPA)**, and **California Consumer Privacy Act (CCPA)**.
+
+The app is primarily designed for children aged **9 and above**, but it may also be used by adults.
+
+---
+
+## 2. Information Collection and Use
+
+The app **does not collect or store any personal data** such as name, email, or phone number.  
+No user registration, login, or account creation is required.
+
+The only data that may be automatically processed are **technical, non-identifiable device data**, which are handled by third-party services (Google AdMob and Unity) for the purpose of displaying ads or ensuring the app’s technical operation.
+
+These technical data may include:
+- device type and model,  
+- operating system version,  
+- app version,  
+- IP address (used temporarily by ad servers to determine the country of access),  
+- language and region settings,  
+- anonymous ad performance statistics (e.g., impressions, clicks).
+
+This information is processed in an **aggregated and anonymous form** and is **not used for profiling or personalized advertising**.
+
+The app does **not** collect or use precise location (GPS), camera, microphone, contacts, or any files from the device.
+
+---
+
+## 3. Advertising
+
+The app uses **Google AdMob** to display **non-personalized advertisements**.  
+The app and its ads are marked as **child-directed** in accordance with COPPA and Google’s **Designed for Families** policy.
+
+- Ads do not contain any content unsuitable for children.  
+- Personalization and behavioral targeting are disabled.  
+- Data collected by AdMob are limited to what is strictly necessary for ad delivery and measurement.  
+
+For more information, please review Google’s privacy policy:  
+👉 [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+---
+
+## 4. Unity Services
+
+The app is developed using the **Unity engine**.  
+Unity may collect minimal technical data such as device type, platform, and crash information necessary to ensure app stability.  
+No personally identifiable data are collected or stored by the developer.
+
+For details, refer to Unity’s privacy policy:  
+👉 [https://unity3d.com/legal/privacy-policy](https://unity3d.com/legal/privacy-policy)
+
+---
+
+## 5. Children’s Privacy
+
+Our app is designed for children and fully complies with **COPPA** and **GDPR-K (Children’s Data Protection)** regulations.  
+We do **not knowingly collect any personal data from children under 13 (or under 16 in the EU)**.  
+
+If you are a parent or guardian and believe your child has provided us with personal information, please contact us at  
+📧 **kidsgameprojects@gmail.com**,  
+and we will delete any such data immediately if found.
+
+---
+
+## 6. Data Security
+
+Because the app does not store personal information, no sensitive user data are kept on our servers.  
+All third-party services (Google AdMob, Unity) use secure and industry-standard communication methods (HTTPS/TLS).
+
+---
+
+## 7. User Rights
+
+Although no personal data are collected, we respect all privacy rights under GDPR and CCPA.  
+If you have any privacy-related questions or requests, please contact us at  
+📧 **kidsgameprojects@gmail.com**
+
+---
+
+## 8. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time if we add new features or integrate additional third-party services.  
+All updates will be published here with a new “Last updated” date.  
+Your continued use of the app means acceptance of any changes.
+
+---
+
+## 9. Contact
+
+If you have any questions about this Privacy Policy or data handling in the app, please contact us:
+
+**Kids Games Projects**  
+**kidsgameprojects@gmail.com**
+
+---
+
+© 2025 Kids Games Projects. All rights reserved.
