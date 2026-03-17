@@ -1,0 +1,155 @@
+PRIVACY POLICY  
+Last updated: November 2026  
+Application: Bilingual Kids Stories  
+Developer / Publisher: Kids Games Projects  
+Contact: kidsgameprojects@gmail.com  
+
+---
+
+## 1. Introduction
+
+The application **Bilingual Kids Stories** is developed and published by **Kids Games Projects**.  
+We respect your privacy and are committed to protecting the data of all users, especially children.
+
+This Privacy Policy explains how information is handled in accordance with:
+- General Data Protection Regulation (GDPR),
+- Children’s Online Privacy Protection Act (COPPA),
+- California Consumer Privacy Act (CCPA).
+
+The app is designed primarily for children, but it may also be used by adults.
+
+---
+
+## 2. Information Collection and Use
+
+The app **does not collect or store any personal data** such as name, email, or phone number.  
+No user registration or account creation is required.
+
+The app may process limited **technical, non-identifiable data** through third-party services for:
+- app functionality,
+- advertising,
+- purchase validation.
+
+These data may include:
+- device type and model,  
+- operating system version,  
+- app version,  
+- IP address (used temporarily),  
+- language and region settings,  
+- anonymous usage statistics,  
+- ad performance data (impressions, clicks).
+
+All such data are:
+- processed in an **anonymous and aggregated form**,  
+- **not used for profiling**,  
+- **not used for personalized advertising for children**.
+
+The app does **not** access:
+- precise location (GPS),  
+- camera, microphone, contacts,  
+- files stored on the device.
+
+---
+
+## 3. Advertising
+
+The app uses **Google AdMob** to display **non-personalized ads**.
+
+The app is treated as **child-directed content** in accordance with COPPA and Google’s policies.
+
+- Ads are non-personalized  
+- Behavioral targeting is disabled  
+- Ads are filtered to be appropriate for children  
+
+More information:  
+https://policies.google.com/privacy
+
+---
+
+## 4. In-App Purchases
+
+The app offers optional **in-app purchases** (e.g., unlocking stories or removing ads).
+
+All purchases are processed securely by:
+- Google Play (Android)
+- Apple App Store (iOS)
+
+We do **not collect or store payment information** such as credit card details.
+
+We only receive limited information necessary to:
+- confirm purchase status,
+- unlock purchased content.
+
+---
+
+## 5. Unity / Engine / Technical Services
+
+The app may use a game engine or framework (e.g., Flutter / Unity or similar technologies).
+
+These technologies may collect minimal technical data such as:
+- device type,
+- system performance,
+- crash reports.
+
+This data is used **only to improve app stability**.
+
+---
+
+## 6. Children’s Privacy
+
+The app is designed for children and complies with **COPPA** and **GDPR-K**.
+
+We do **not knowingly collect personal data** from:
+- children under 13 (USA),
+- children under 16 (EU).
+
+If you believe a child has provided personal data, please contact us:
+📧 kidsgameprojects@gmail.com
+
+We will remove such data immediately if found.
+
+---
+
+## 7. Data Security
+
+The app does not store personal data on its own servers.
+
+All third-party services use secure communication:
+- HTTPS / TLS encryption
+
+---
+
+## 8. User Rights
+
+Users (or parents/guardians) have rights under GDPR and CCPA, including:
+- right to access,
+- right to deletion,
+- right to information.
+
+Requests can be sent to:
+📧 kidsgameprojects@gmail.com
+
+---
+
+## 9. Changes to this Privacy Policy
+
+We may update this Privacy Policy when:
+- adding new features,
+- integrating new services.
+
+Updates will be published with a new “Last updated” date.
+
+Continued use of the app means acceptance of the changes.
+
+---
+
+## 10. Contact
+
+If you have any questions:
+
+Kids Games Projects  
+kidsgameprojects@gmail.com  
+
+---
+
+© 2026 Kids Games Projects. All rights reserved.
